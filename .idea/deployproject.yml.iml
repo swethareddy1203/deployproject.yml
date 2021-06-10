@@ -3,6 +3,8 @@
   <component name="NewModuleRootManager">
     <content url="file://$USER_HOME$/Desktop/deployproject.yml" />
     <orderEntry type="inheritedJdk" />
+    - name: git-bash
+  uses: pkg-src/github-action-git-bash@v1.1
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
